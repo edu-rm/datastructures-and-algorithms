@@ -1,6 +1,6 @@
 # How to find GCD (Greatest Common Divisor) of two numbers using recursion?
 
-# Using euclidian algorithm
+# Using euclidean algorithm
 
 def gcd(a, b):
     assert int(a) == a and int(b) == b, 'The numbers must be integers'
